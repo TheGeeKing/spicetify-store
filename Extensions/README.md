@@ -2,9 +2,11 @@
 
 # How to install extensions: 
 
-1. open a terminal
-2. run `spicetify config extensions [extensionname.js]`
-3. run `spicetify apply`
+1. Download the extensions that you want (should be a .js file)
+2. Move your extensions into .spicetify/Extensions folder (to find path: spicetify -c)
+3. Open a terminal
+4. Run `spicetify config extensions [extensionname.js]`
+5. Run `spicetify apply`
 
 ---
 
