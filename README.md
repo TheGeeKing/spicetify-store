@@ -1,2 +1,2 @@
 # spicetify-store
-A spicetify Custom App who makes it easy to find and download extensions
+A Repository to make it easier to find and download extensions, themes and custom apps
